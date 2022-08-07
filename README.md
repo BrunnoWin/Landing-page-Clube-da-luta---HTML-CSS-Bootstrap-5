@@ -3,7 +3,7 @@ Landing page  Clube da luta - HTML + CSS + Bootstrap 5
 
 
 
-##Ferramentas usadas
+# Ferramentas usadas
 
 
 
