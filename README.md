@@ -1,5 +1,5 @@
 # Landing-page-Clube-da-luta-HTML-CSS-Bootstrap-5
-Landing page  Clube da luta - HTML + CSS + Bootstrap 5
+Landing page  Clube da luta - HTML + CSS + JS + Bootstrap 5
 
 # Imagens do Projeto
 
